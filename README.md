@@ -15,6 +15,11 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
     * Presupuestos
     * Relaciones comerciales
     * Estimar el tiempo
+* Competiciones
+  * Medida de velocidad y duración con Arduino
+    * Sensores
+    * Interrupciones hardware
+    * Medida de tiempo
 
 ## Funcionamiento
 
