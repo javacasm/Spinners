@@ -54,8 +54,12 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
 
 [10 rodamientos 608zz por 2,5€](https://es.aliexpress.com/item/10pcs-608ZZ-8x22x7-3D-printer-Miniature-Radial-Bearings-Deep-Groove-Ball-Bearings-Skateboard-Scooter-Roller-Wheels/32768021718.html)
 
-## Consterucción
+## Construcción
 
 ### Limpieza
 
 [limpieza](https://www.youtube.com/watch?v=mpz3_pZ9Ay0)
+
+## Referencias
+
+[How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
