@@ -1,5 +1,23 @@
 # Spinners
 
+
+Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que aprendan?
+
+* Los diseñan
+* Los construyen
+* Aprenden:
+  * Física:
+    * Rozamiento
+    * Momento de inercia
+  * Diseño 3D
+  * Mecánica
+  * A emprender
+    * Presupuestos
+    * Relaciones comerciales
+    * Estimar el tiempo
+
+## Funcionamiento
+
 [Video Comparativa rendimiento rodamiento cerámico (2$) con uno metálico (0,20$)](https://www.youtube.com/watch?v=vLL-T4Z_TNo)
 
 
@@ -13,6 +31,8 @@
 [Spinner con 3 tuercas M10](http://www.thingiverse.com/thing:2032459)
 
 ![](http://thingiverse-production-new.s3.amazonaws.com/renders/ec/8e/f2/48/3b/021e25b4d2d36b8bf10a288f674b30c8_preview_featured.JPG)
+
+(tarda 1 hora a 0.3)
 
 [otros diseños de spinners con tuercas](http://www.thingiverse.com/search?q=spinner+nuts&sa=)
 
