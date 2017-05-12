@@ -27,3 +27,9 @@
 [100 rodamientos 608zz por 36€](https://es.aliexpress.com/store/product/608zz-Axial-Ball-Bearing-8mm-skate-bearings-8x22x7-Double-Shielded-100-pieces/722545_32588807551.html)
 
 [10 rodamientos 608zz por 2,5€](https://es.aliexpress.com/item/10pcs-608ZZ-8x22x7-3D-printer-Miniature-Radial-Bearings-Deep-Groove-Ball-Bearings-Skateboard-Scooter-Roller-Wheels/32768021718.html)
+
+## Consterucción
+
+### Limpieza
+
+[limpieza](https://www.youtube.com/watch?v=mpz3_pZ9Ay0)
