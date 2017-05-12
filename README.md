@@ -16,10 +16,11 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
     * Relaciones comerciales
     * Estimar el tiempo
 * Competiciones
-  * Medida de velocidad y duración con Arduino
-    * Sensores
+  * Medida de velocidad y duración con Arduino: Tacómetro
+    * Sensores para medir la rotación
     * Interrupciones hardware
-    * Medida de tiempo
+    * Medida de tiempos
+    * Cálculo de velocidades angulares
 
 ## Funcionamiento
 
