@@ -63,3 +63,5 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
 ## Referencias
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
+
+[Vídeo de impresión 3D de spinners](https://www.youtube.com/watch?v=huC4JagKYh8)
