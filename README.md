@@ -54,6 +54,8 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
 
 [10 rodamientos 608zz por 2,5€](https://es.aliexpress.com/item/10pcs-608ZZ-8x22x7-3D-printer-Miniature-Radial-Bearings-Deep-Groove-Ball-Bearings-Skateboard-Scooter-Roller-Wheels/32768021718.html)
 
+[20 rodamientos 608zz Abec9 (sin freno) unos 15€](https://es.aliexpress.com/wholesale?ltype=wholesale&d=y&origin=y&isViewCP=y&catId=0&initiative_id=SB_20170514112051&SearchText=abec9+20pcs&blanktest=0&tc=af)
+
 ## Construcción
 
 ### Limpieza
@@ -66,6 +68,10 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
 
 [F. Malpartida](https://plus.google.com/u/0/115838143115912805344) ha utilizado un [osciloscopio y  un sensor óptico para ver el giro](https://plus.google.com/u/0/115838143115912805344/posts/DAK4Hzwv4wq)
 
+
+[Diseño del banco de trabajo](http://www.thingiverse.com/thing:2319223)
+
+![Banco de trabajo  ](https://lh3.googleusercontent.com/yYX_qNNhBxh9jv_kDf6OuWuEjR1RT39J4uf0Z9Nek-gftCXrIdSBEr-lXfouq_7ePGgTZ4KiJIedSw=w1920-h1080-rw-no)
 
 ![montaje y osciloscopio](https://lh3.googleusercontent.com/64UsKEqB_Y4bDHtYiWp3PBcoQa2TVebde7kwX1IK3oZbnxkK4Xy6tYsodbi11kou8YQWyObbgMXqrVzbtlqpdjNf7RP8R8ab4Q=w1920-h1080-rw-no)
 
