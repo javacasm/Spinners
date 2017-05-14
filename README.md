@@ -60,6 +60,19 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
 
 [limpieza](https://www.youtube.com/watch?v=mpz3_pZ9Ay0)
 
+## Medidas
+
+### Medida de la rotación con un osciloscopio
+
+[F. Malpartida](https://plus.google.com/u/0/115838143115912805344) ha utilizado un [osciloscopio y  un sensor óptico para ver el giro](https://plus.google.com/u/0/115838143115912805344/posts/DAK4Hzwv4wq)
+
+
+![montaje y osciloscopio](https://lh3.googleusercontent.com/64UsKEqB_Y4bDHtYiWp3PBcoQa2TVebde7kwX1IK3oZbnxkK4Xy6tYsodbi11kou8YQWyObbgMXqrVzbtlqpdjNf7RP8R8ab4Q=w1920-h1080-rw-no)
+
+![osciloscopio](https://lh3.googleusercontent.com/3ejOSjPSpqTRKIvRJfCd2q5CE-CJeAb9N9AMUNG0dyKKppuzllZlEC1yxJbImDtilxzvQQPK0cLxtOmvUCEfpJAoJCmEGqAv9A=w1920-h1080-rw-no)
+
+También propone usar un sensor inductivo
+
 ## Referencias
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
