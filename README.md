@@ -82,7 +82,7 @@ También propone usar un sensor inductivo
 
 ### Medida de rotación con Arduino
 
-![arduino midiendo](./images/1er test.jpg)
+![arduino midiendo](./images/1er_test.jpg)
 
 ![arduino midiendo](./images/1erTest.png)
 
