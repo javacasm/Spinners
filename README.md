@@ -79,6 +79,21 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
 
 También propone usar un sensor inductivo
 
+
+### Medida de rotación con Arduino
+
+![arduino midiendo](./images/1er test.jpg)
+
+![arduino midiendo](./images/1erTest.png)
+
+El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
+
+![modelo de test de medida](./images/Montaje_testBench.jpg)
+
+![Diseño](images/Test_Bench_1.03.png)
+
+[Diseño del banco de pruebas](./modelos/Test_bench_v1.03.stl)
+
 ## Referencias
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
