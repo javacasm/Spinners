@@ -1,4 +1,4 @@
-# Spinners
+# Física y arduino con Spinners
 
 
 Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que aprendan?
