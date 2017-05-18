@@ -94,6 +94,19 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 
 [Diseño del banco de pruebas](./modelos/Test_bench_v1.03.stl)
 
+
+#### Código superSimplificado
+
+    void setup() {
+      Serial.begin(9600);
+    }
+
+    void loop() {
+      Serial.println(analogRead(A0));
+    }
+
+[Test v0.1](./codigo/TestSpinner_v0.1.ino)
+
 ## Referencias
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
