@@ -107,6 +107,19 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 
 [Test v0.1](./codigo/TestSpinner_v0.1.ino)
 
+
+### Practicas a realizar:
+
+* "Carreras" de spinners:
+  * Más tiempo girando
+  * Mayor velocidad
+* Construcción
+  * A partir de diseños ya hechos
+  * Crear diseños para maximizar la inercia, la velocidad...
+* Montaje del banco de medida
+* Estudio de la física del movimiento
+
+
 ## Referencias
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
