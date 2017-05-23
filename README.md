@@ -121,7 +121,9 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
       Serial.begin(115200);
       pinMode(PIN_LED,OUTPUT);
     }
+
     int old_valorSensor=0;
+
     void loop() {
       int valorSensor=analogRead(PIN_SENSOR_OPTICO);
       int diffSensor=valorSensor-old_valorSensor; // Calculamos la diferencia con el valor anterior
