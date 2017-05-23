@@ -119,7 +119,21 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 * Montaje del banco de medida
 * Estudio de la física del movimiento
 
+## Dibujando los datos
 
+
+[python y matlib](http://www.toptechboy.com/tutorial/python-with-arduino-lesson-11-plotting-and-graphing-live-data-from-arduino-with-matplotlib/)
+
+
+[plotting arduino data](http://www.chemie.unibas.ch/~hauser/open-source-lab/instrumentino/index.html)
+
+
+[python & arduino](https://playground.arduino.cc/Interfacing/Python)
+
+
+[plotCat](https://pypi.python.org/pypi/plotcat/1.0.0)
+
+[python plot serial data](http://rwsarduino.blogspot.com.es/2014/12/python-plots-from-serial-input.html)
 ## Referencias
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
