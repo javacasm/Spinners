@@ -107,6 +107,39 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 
 [Test v0.1](./codigo/TestSpinner_v0.1.ino)
 
+#### Código con cálculo de derivada
+
+    #define PIN_SENSOR_OPTICO A0
+    #define PIN_POTENCIOMETRO_UMBRAL_MAX A3
+    #define PIN_POTENCIOMETRO_UMBRAL_MIN A2
+
+    #define PIN_LED 13
+
+    void setup() {
+      Serial.begin(115200);
+      pinMode(PIN_LED,OUTPUT);
+    }
+    int old_valorSensor=0;
+    void loop() {
+      int valorSensor=analogRead(PIN_SENSOR_OPTICO);
+      int diffSensor=valorSensor-old_valorSensor;
+      old_valorSensor=valorSensor;
+
+
+    // Usamos un potenciometro analogico para ajustar el umbral
+      int valorPotUmbralMax=analogRead(PIN_POTENCIOMETRO_UMBRAL_MAX);
+      int valorPotUmbralMin=analogRead(PIN_POTENCIOMETRO_UMBRAL_MIN);
+
+      Serial.println(String(valorPotUmbralMin)+
+          ", "+String(valorSensor)+
+          ", "+String(diffSensor)+
+          ", "+String(valorPotUmbralMax));
+
+      if((valorSensor>valorPotUmbralMax) && (valorSensor<valorPotUmbralMin))
+      { digitalWrite(PIN_LED,HIGH);}
+      else
+      { digitalWrite(PIN_LED,LOW);}
+    }
 
 ### Practicas a realizar:
 
@@ -134,6 +167,7 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 [plotCat](https://pypi.python.org/pypi/plotcat/1.0.0)
 
 [python plot serial data](http://rwsarduino.blogspot.com.es/2014/12/python-plots-from-serial-input.html)
+
 ## Referencias
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
