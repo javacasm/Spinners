@@ -109,6 +109,8 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 
 #### Código con cálculo de derivada
 
+![plot diff](./images/spinnerDiffTest.png)
+
     #define PIN_SENSOR_OPTICO A0
     #define PIN_POTENCIOMETRO_UMBRAL_MAX A3
     #define PIN_POTENCIOMETRO_UMBRAL_MIN A2
