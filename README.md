@@ -177,4 +177,6 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
 
+[Physics of a spinner](https://www.wired.com/2017/05/physics-of-a-fidget-spinner)
+
 [Vídeo de impresión 3D de spinners](https://www.youtube.com/watch?v=huC4JagKYh8)
