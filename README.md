@@ -149,8 +149,8 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 ### Practicas a realizar
 
 * "Carreras" de spinners:
-  * Más tiempo girando
-  * Mayor velocidad
+  * Cuál dura más tiempo girando
+  * Cuál adquier mayor velocidad
 * Construcción
   * A partir de diseños ya hechos
   * Crear diseños para maximizar la inercia, la velocidad...
@@ -158,7 +158,6 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 * Estudio de la física del movimiento
 
 ## Dibujando los datos
-
 
 [python y matlib](http://www.toptechboy.com/tutorial/python-with-arduino-lesson-11-plotting-and-graphing-live-data-from-arduino-with-matplotlib/)
 
@@ -180,3 +179,5 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 [Physics of a spinner](https://www.wired.com/2017/05/physics-of-a-fidget-spinner)
 
 [Vídeo de impresión 3D de spinners](https://www.youtube.com/watch?v=huC4JagKYh8)
+
+[Tutorial de limpieza de rodamientos para spinners](http://www.instructables.com/id/Speed-Tuning-Spinner-Bearings)
