@@ -194,3 +194,5 @@ Se trata de medir la probabilidad de que el spinner termine apuntando dentro de 
 
 [Vídeo: Diseñando un spinner I](https://www.youtube.com/watch?v=NX9t-JnkXU8)
 [Vídeo: Diseñando un spinner II](https://www.youtube.com/watch?v=DdUQ85Srtdk&spfreload=5#t=5.727062)
+
+[Spinner e imanes](https://www.youtube.com/watch?v=rNQCFBEHxms﻿)
