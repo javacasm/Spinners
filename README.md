@@ -172,6 +172,14 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 
 [python plot serial data](http://rwsarduino.blogspot.com.es/2014/12/python-plots-from-serial-input.html)
 
+## Trabajando la probabilidad con spinners
+
+![Probabilidad.jpg](./images/Probabilidad.jpg)
+
+![Medida_probabilidad.jpg](./images/Medida_probabilidad.jpg)
+
+Se trata de medir la probabilidad de que el spinner termine apuntando dentro de una de las zonas y luego comparar las frecuencias medidas con las probabilidades esperadas
+
 ## Referencias
 
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
@@ -181,3 +189,8 @@ El montaje es muy sencillo: un sensor de luz conectado al pin analógico A0
 [Vídeo de impresión 3D de spinners](https://www.youtube.com/watch?v=huC4JagKYh8)
 
 [Tutorial de limpieza de rodamientos para spinners](http://www.instructables.com/id/Speed-Tuning-Spinner-Bearings)
+
+[Video: robot que lanza hace girar un spinner](https://www.youtube.com/watch?v=F-r3e8R0_eA)
+
+[Vídeo: Diseñando un spinner I](https://www.youtube.com/watch?v=NX9t-JnkXU8)
+[Vídeo: Diseñando un spinner II](https://www.youtube.com/watch?v=DdUQ85Srtdk&spfreload=5#t=5.727062)
