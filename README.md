@@ -196,3 +196,11 @@ Se trata de medir la probabilidad de que el spinner termine apuntando dentro de 
 [Vídeo: Diseñando un spinner II](https://www.youtube.com/watch?v=DdUQ85Srtdk&spfreload=5#t=5.727062)
 
 [Spinner e imanes](https://www.youtube.com/watch?v=rNQCFBEHxms﻿)
+
+[Cuenta revoluciones con arduino](http://www.taringa.net/posts/hazlo-tu-mismo/19509322/Arduino---Construye-un-contador-de-revoluciones.html)
+
+[Cómo hacer estallar un spinner](https://mientrasenfisicas.wordpress.com/2017/06/14/como-volar-en-pedazos-cualquier-spinner/)
+
+[Enseñando STEAM con Spinners](http://hackaday.com/2017/06/23/teaching-steam-with-fidget-spinners/)
+
+[Los 25 mejores diseños de spinners ](http://www.3ders.org/articles/20170622-25-best-and-free-fidget-spinner-toys-to-3d-print.html)
