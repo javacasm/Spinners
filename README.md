@@ -204,3 +204,5 @@ Se trata de medir la probabilidad de que el spinner termine apuntando dentro de 
 [Enseñando STEAM con Spinners](http://hackaday.com/2017/06/23/teaching-steam-with-fidget-spinners/)
 
 [Los 25 mejores diseños de spinners ](http://www.3ders.org/articles/20170622-25-best-and-free-fidget-spinner-toys-to-3d-print.html)
+
+[Spinner digital, imitando con spinner con Circuit Playground de @adafruit](https://learn.adafruit.com/digital-fidget-spinner?view=all)
