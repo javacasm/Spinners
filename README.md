@@ -206,3 +206,9 @@ Se trata de medir la probabilidad de que el spinner termine apuntando dentro de 
 [Los 25 mejores diseños de spinners ](http://www.3ders.org/articles/20170622-25-best-and-free-fidget-spinner-toys-to-3d-print.html)
 
 [Spinner digital, imitando con spinner con Circuit Playground de @adafruit](https://learn.adafruit.com/digital-fidget-spinner?view=all)
+
+### Cuentarevoluciones-tacómetros
+
+[Midiendo la velocidad de un spinner con BBC:Microbit](https://blog.adafruit.com/2017/05/31/detecting-fidget-spinner-speeds-with-a-ldr-and-the-microbit/)
+
+[Midiendo la velocidad de giro de un spinner con BBC:Microbit ](https://blog.adafruit.com/2017/05/31/detecting-fidget-spinner-speeds-with-a-ldr-and-the-microbit/)
