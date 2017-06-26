@@ -213,3 +213,5 @@ Se trata de medir la probabilidad de que el spinner termine apuntando dentro de 
 [Midiendo la velocidad de giro de un spinner con BBC:Microbit ](https://blog.adafruit.com/2017/05/31/detecting-fidget-spinner-speeds-with-a-ldr-and-the-microbit/)
 
 [Cuenta revoluciones con arduino](http://www.taringa.net/posts/hazlo-tu-mismo/19509322/Arduino---Construye-un-contador-de-revoluciones.html)
+
+[Vídeo: Cuentarevoluciones con Circuit Playground](https://www.youtube.com/watch?v=v-PVGTwXKFU) [Código](https://github.com/adafruit/Adafruit_CircuitPlayground/blob/master/examples/tachometer_led_display/tachometer_led_display.ino) [Mi versión](https://github.com/javacasm/Spinners/blob/master/codigo/tacometro_playground/tacometro_playground.ino)
