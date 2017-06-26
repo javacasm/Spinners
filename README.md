@@ -197,7 +197,6 @@ Se trata de medir la probabilidad de que el spinner termine apuntando dentro de 
 
 [Spinner e imanes](https://www.youtube.com/watch?v=rNQCFBEHxms﻿)
 
-[Cuenta revoluciones con arduino](http://www.taringa.net/posts/hazlo-tu-mismo/19509322/Arduino---Construye-un-contador-de-revoluciones.html)
 
 [Cómo hacer estallar un spinner](https://mientrasenfisicas.wordpress.com/2017/06/14/como-volar-en-pedazos-cualquier-spinner/)
 
@@ -212,3 +211,5 @@ Se trata de medir la probabilidad de que el spinner termine apuntando dentro de 
 [Midiendo la velocidad de un spinner con BBC:Microbit](https://blog.adafruit.com/2017/05/31/detecting-fidget-spinner-speeds-with-a-ldr-and-the-microbit/)
 
 [Midiendo la velocidad de giro de un spinner con BBC:Microbit ](https://blog.adafruit.com/2017/05/31/detecting-fidget-spinner-speeds-with-a-ldr-and-the-microbit/)
+
+[Cuenta revoluciones con arduino](http://www.taringa.net/posts/hazlo-tu-mismo/19509322/Arduino---Construye-un-contador-de-revoluciones.html)
