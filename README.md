@@ -182,6 +182,8 @@ Se trata de medir la probabilidad de que el spinner termine apuntando dentro de 
 
 ## Referencias
 
+[Spinner POV RGB: lightino ](http://www.microsiervos.com/archivo/hackers/lightino-fidget-spinner-programable.html)
+
 [How long a Spinner spins](https://www.wired.com/2017/05/the-phyiscs-of-fidget-spinners/) (thanks @ikkaro)
 
 [Physics of a spinner](https://www.wired.com/2017/05/physics-of-a-fidget-spinner)
