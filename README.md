@@ -31,12 +31,12 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
 
 [Spinners con tuercas M8,10,m12](http://www.thingiverse.com/thing:2078940)
 
-![](http://thingiverse-production-new.s3.amazonaws.com/renders/8a/97/bd/ff/4c/39855bbeb329a9963de13dc7203e3b9d_preview_featured.jpg)
+![](https://cdn.thingiverse.com/renders/8a/97/bd/ff/4c/39855bbeb329a9963de13dc7203e3b9d_display_large.jpg)
 
 
 [Spinner con 3 tuercas M10](http://www.thingiverse.com/thing:2032459)
 
-![](http://thingiverse-production-new.s3.amazonaws.com/renders/ec/8e/f2/48/3b/021e25b4d2d36b8bf10a288f674b30c8_preview_featured.JPG)
+![](https://cdn.thingiverse.com/renders/ec/8e/f2/48/3b/021e25b4d2d36b8bf10a288f674b30c8_display_large.JPG)
 
 (tarda 1 hora a 0.3)
 
@@ -44,7 +44,7 @@ Ya tenemos claro que a los chavales les gusta ¿por qué no usarlo para que apre
 
 [Spinner con leds](http://www.thingiverse.com/thing:2245883)
 
-![](http://thingiverse-production-new.s3.amazonaws.com/renders/d8/c4/f6/a1/bf/dc5b2987301b8d285f38f64fef64d8d1_preview_featured.jpg)
+![](https://cdn.thingiverse.com/renders/d8/c4/f6/a1/bf/dc5b2987301b8d285f38f64fef64d8d1_display_large.jpg)
 
 ## Compras
 
